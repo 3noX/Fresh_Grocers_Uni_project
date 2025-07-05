@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-[🔗 View Website (if hosted)](https://your-live-site-link.com)
-
----
-
 
 ---
 
