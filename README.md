@@ -25,6 +25,8 @@
    git clone https://github.com/your-username/Fresh_Grocers_Uni_project.git
    cd Fresh_Grocers_Uni_project
 
+---   
+
    ## 📸 Screenshots
 
 Here are some previews of the Fresh Grocers website:
