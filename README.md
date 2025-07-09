@@ -30,7 +30,7 @@
 Here are some previews of the Fresh Grocers website:
 
 ### 🏠 Homepage
-(![image](https://github.com/user-attachments/assets/946e8629-e6a5-42d4-bf0c-976f7cf27ea2)
+![image](https://github.com/user-attachments/assets/946e8629-e6a5-42d4-bf0c-976f7cf27ea2)
 
 ### ℹ️ Products Page
 ![image](https://github.com/user-attachments/assets/db7c7bd9-a55f-43cf-89c8-8aeaec83bc23)
